@@ -1,0 +1,14 @@
+.fundo{
+    height: 497;
+    width: 320;
+    color: rgb(194, 28, 28);
+}
+.fundo img{
+    height: 288px;
+    width: 288px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-left: 50px;
+
+}
